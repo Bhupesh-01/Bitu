@@ -1,2 +1,15 @@
-I am writing here in terminal.
-
+****--- git cheatsheet + lx commands ---****
+subl .
+git status
+git init
+ls
+git add fileName/.
+git commit -m "sms"
+git remote add origin remote-url
+git remote -v
+git branch -m main     #to rename branch as main which was master
+git push 
+git push origin main
+git push -u origin main
+git pull
+git pull origin main --rebase
