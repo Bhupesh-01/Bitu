@@ -1,10 +1,13 @@
 ****--- git cheatsheet + lx commands ---****
-subl .
+subl .   or   code .
 git status
-git init
+git init       #to create or to initialize as git repository
+rm -rf .git    #to unitialize git repository
+git branch 
+git checkout -b main
 ls
 touch fileName
-git add fileName/.
+git add fileName/. / -A
 git commit -m "sms"
 git remote add origin remote-url
 git remote -v
