@@ -3,6 +3,7 @@ subl .
 git status
 git init
 ls
+touch fileName
 git add fileName/.
 git commit -m "sms"
 git remote add origin remote-url
