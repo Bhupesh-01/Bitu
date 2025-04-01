@@ -1,1 +1,3 @@
-just for shell scripts
+just for shell scripts.
+Here Bash shell is used...
+txt for command prompts.
